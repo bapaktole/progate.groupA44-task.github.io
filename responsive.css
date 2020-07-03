@@ -1,0 +1,13 @@
+/* Ukuran Tablet */
+@media screen and (max-width: 1000px) {
+    header ul {
+      width: 50%;
+    }
+}
+
+/* Ukuran Mobile */
+@media screen and (max-width: 670px) {
+    .menu-toggle {
+      display: flex;
+    }
+}
